@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sarthak+Gupta;Why+are+you+here?&center=true&size=30"> 
+    
 </a>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)-->
@@ -19,4 +21,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
+## **What am I?**
+- 🏤 I am a CSE Junior at IIIT Delhi.
+- 📄 I am a documentation enthusiast
+- 🗂️ I am into organizing all sorts of data into the most efficient structure.
