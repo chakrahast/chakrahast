@@ -1,4 +1,6 @@
-# Hello there 👋
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sarthak+Gupta;Why+are+you+here?&center=true&size=30"> 
+</a>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)-->
 ```python
