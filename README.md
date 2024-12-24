@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello there 👋
 
-<!--
-**chakrahast/chakrahast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)-->
+```python
+class SoftwareEngineer:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Sarthak Gupta"
+        self.nickname = "chakrahast"
+        self.role = "Software Engineer"
+        self.language_spoken = ["English", "Hindi"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("I see you, see me. What's up?")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
